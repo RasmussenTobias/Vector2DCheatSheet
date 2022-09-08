@@ -35,7 +35,10 @@ $|\vec{a}|^2=\vec{a}\cdot\vec{a}$
 $arg(\vec{a})=sin^{-1}(\frac{y}{\sqrt{x^2+y^2}})$ $=cos^{-1}(\frac{x}{\sqrt{x^2+y^2}})=tan^{-1}(\frac{y}{x})$
 #### <ins>Write a vector with the help of the direction angle</ins>  
 $\vec{a}=|\vec{a}\times(\frac{cos(arg(\vec{a}))}{sin(arg(\vec{a}))})|$
-#### <ins> </ins>
+#### <ins>Unit vectors</ins>  
+The unit vector for $\vec{u}_{\vec{a}}$ is given by:  
+
+$\vec{u}_{\vec{a}}=(\frac{x_u}{y_u})=(\frac{\frac{x}{\sqrt{x^2+y^2}}}{\frac{y}{\sqrt{x^2+y^2}}})$
 #### <ins> </ins>
 #### <ins> </ins>
 #### <ins> </ins>
