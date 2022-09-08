@@ -50,11 +50,13 @@ $\hat{\vec{a}}=({-y \atop x})$
 Properties/rules of a rotation matrix:  
 $\vec{a}\cdot\vec{b}=\hat{\vec{a}}\cdot \hat{\vec{b}}$  
 $\hat{\vec{a}+\vec{b}}=\hat{\vec{a}}+ \hat{\vec{b}}$  
-$\hat{\vec{a}}\cdot \vec{b}=-\vec{a}\cdot \hat{\vec{b}}$
-#### <ins> </ins>
+$\hat{\vec{a}}\cdot \vec{b}=-\vec{a}\cdot \hat{\vec{b}}$  
+$\hat{\hat{\vec{a}}}=\vec{a}$
+#### <ins>Determinant</ins>  
+$det(\vec{a},\vec{b})=\hat{\vec{a}}\cdot \vec{b}=|{x_1 x_2 \atop y_1 y_2}| = x_1\times y_2-y_1\times x_2=|\vec{a}|\times |\vec{b}|\times sin(v)$
 
-#### <ins> </ins>
+#### <ins>Orthogonal and parallel actual vectors</ins>  
 
-#### <ins> </ins>
 
-#### <ins> </ins>
+#### <ins>Projection of a vector on another vector</ins>  
+
