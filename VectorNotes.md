@@ -33,15 +33,15 @@ $({x_1 \atop y_1})\cdot({x_2 \atop y_2})=x_1\times x_2 + y_1 \times y_2$
 $|\vec{a}|=\sqrt{x^2+y^2}$  
 Properties/rules of the lenght of a vector:  
 $|k\times \vec{a}|=k\times |\vec{a}|$  
-$|\vec{a}|^2=\vec{a}\cdot\vec{a}$
+$|\vec{a}|^2=\vec{a}\cdot\vec{a}$  
 [Examples of the lenght of a vector]()
 
 #### <ins>Vector argument</ins>  
-$arg(\vec{a})=sin^{-1}(\frac{y}{\sqrt{x^2+y^2}})$ $=cos^{-1}(\frac{x}{\sqrt{x^2+y^2}})=tan^{-1}(\frac{y}{x})$
+$arg(\vec{a})=sin^{-1}(\frac{y}{\sqrt{x^2+y^2}})$ $=cos^{-1}(\frac{x}{\sqrt{x^2+y^2}})=tan^{-1}(\frac{y}{x})$  
 [Examples of the vector argument]()
 
 #### <ins>Write a vector with the help of the direction angle</ins>  
-$\vec{a}=|\vec{a}\times(\frac{cos(arg(\vec{a}))}{sin(arg(\vec{a}))})|$
+$\vec{a}=|\vec{a}\times(\frac{cos(arg(\vec{a}))}{sin(arg(\vec{a}))})|$  
 [Examples of a vectors written with the help of the direction angle]()
 
 #### <ins>Unit vectors</ins>  
@@ -50,7 +50,7 @@ $\vec{u}_{\vec{a}}=({x_u \atop y_u})=(\frac{\frac{x}{\sqrt{x^2+y^2}}}{\frac{y}{\
 [Examples of the unit vector]()
 
 #### <ins>Angle between two vectors</ins>  
-$cos(v)=\frac{({x_1\atop y_1})\cdot ({x_2 \atop y_2})}{|({x_1 \atop y_1})|\times|({x_2 \atop y_2})|}=\frac{x_1\times x_2+y_1\times y_2}{\sqrt{(x_1^2+y_1^2)\times(x_2^2+y_2^2)}}$
+$cos(v)=\frac{({x_1\atop y_1})\cdot ({x_2 \atop y_2})}{|({x_1 \atop y_1})|\times|({x_2 \atop y_2})|}=\frac{x_1\times x_2+y_1\times y_2}{\sqrt{(x_1^2+y_1^2)\times(x_2^2+y_2^2)}}$  
 [Examples of the angle between two vectors]()
 
 #### <ins>Rotation matrix/Tværvektor</ins>  
