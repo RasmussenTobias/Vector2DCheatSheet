@@ -46,8 +46,11 @@ $cos(v)=\frac{({x_1\atop y_1})\cdot ({x_2 \atop y_2})}{|({x_1 \atop y_1})|\times
 
 #### <ins>Rotation matrix/Tværvektor</ins>  
 Notation: $\hat{\vec{a}}$  
-$\hat{\vec{a}}=({-y \atop x})$
-
+$\hat{\vec{a}}=({-y \atop x})$  
+Properties/rules of a rotation matrix:  
+$\vec{a}\cdot\vec{b}=\hat{\vec{a}}\cdot \hat{\vec{b}}$  
+$\hat{\vec{a}+\vec{b}}=\hat{\vec{a}}+ \hat{\vec{b}}$  
+$\hat{\vec{a}}\cdot \vec{b}=-\vec{a}\cdot \hat{\vec{b}}$
 #### <ins> </ins>
 
 #### <ins> </ins>
