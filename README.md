@@ -14,6 +14,5 @@ Properties/rules of vector adding:
 - $k(\vec{a}+\vec{b})=k\vec{a}+k\vec{b}$
 - $\vec{a}+(\vec{b}+\vec{c})+\vec{c}$
 
-
-<ins>Examples of vector adding</ins>  
+[Examples of vector adding](https://github.com/RasmussenTobias/Vector2DCheatSheet/blob/main/Examples.md#examples-of-vector-adding)
 
