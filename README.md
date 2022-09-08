@@ -4,7 +4,8 @@ A vector is an arrow with a lenght and a direction.
 $\vec{a}$  
 A vector contains two coordinates describing how long the vector is in the direction of the x and the y axis.  
 $\vec{a}=(\frac{a_1}{a_2})$  
-When drawing a vector into your coordinat system, it does not matter where you start, as long as the arrow has the same length and direction.  
+When drawing a vector into your coordinate system, it does not matter where you start, as long as the arrow has the same length and direction.  
+[Examples of plotting vectors into your coordinate system]()
 
 #### <ins>Addition of vectors</ins>  
 $\vec{a}+\vec{b}=(\frac{a_1+b_1}{a_2+b_2})$  
