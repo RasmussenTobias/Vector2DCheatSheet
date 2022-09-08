@@ -44,7 +44,8 @@ $\vec{u}_{\vec{a}}=({x_u \atop y_u})=(\frac{\frac{x}{\sqrt{x^2+y^2}}}{\frac{y}{\
 #### <ins>Angle between two vectors</ins>  
 $cos(v)=\frac{({x_1\atop y_1})\cdot ({x_2 \atop y_2})}{|({x_1 \atop y_1})|\times|({x_2 \atop y_2})|}=\frac{x_1\times x_2+y_1\times y_2}{\sqrt{(x_1^2+y_1^2)\times(x_2^2+y_2^2)}}$
 
-#### <ins> </ins>
+#### <ins>Rotation matrix/Tværvektor</ins>  
+Notation: $\hat{\vec{a}}$
 
 #### <ins> </ins>
 
