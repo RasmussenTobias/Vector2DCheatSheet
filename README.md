@@ -1,1 +1,2 @@
-# __Vector2D Cheat Sheet__
+# **Vector2D Cheat Sheet**
+
