@@ -1,2 +1,2 @@
 # **Vector2D Cheat Sheet**
-__Addition of vectors__
+<ins>Addition of vectors<\ins>
