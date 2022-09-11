@@ -8,7 +8,7 @@ When drawing a vector into your coordinate system, it does not matter where you 
 [Examples of plotting vectors into your coordinate system](https://github.com/RasmussenTobias/Vector2DCheatSheet/blob/main/Examples.md#examples-of-plotting-vectors-into-your-coordinate-system)
 
 #### <ins>Addition of vectors</ins>  
-$\vec{a}+\vec{b}=({a_1 + a_2 \atop b_1 + b_2})$  
+$\vec{a}+\vec{b}=({a_1 + b_1 \atop a_2 + b_2})$  
 Properties/rules of vector adding: 
 - $\vec{a}+\vec{b}=\vec{b}+\vec{a}$
 - $\vec{a}+\vec{0}=\vec{a}$
