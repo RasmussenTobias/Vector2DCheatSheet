@@ -1,6 +1,6 @@
 # Examples  
 #### <ins>Examples of plotting vectors into your coordinate system</ins>  
-To plot a vector into your coordinate system use the following syntax: $vecname=\{\{ax,ay\},\{bx.by\}\}$ - it is important that the name is lowercase.  
+To plot a vector into your coordinate system use the following syntax: $vecname=\\{\\{ax,ay\\},\\{bx.by\\}\\}$ - it is important that the name is lowercase.  
 ![image](https://user-images.githubusercontent.com/54395197/189525146-22c1393b-0620-4cbf-b551-6db2173a89b1.png)
 
 #### <ins>Examples of vector adding</ins>
